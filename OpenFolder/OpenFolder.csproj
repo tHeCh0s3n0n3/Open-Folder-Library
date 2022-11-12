@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0-windows</TargetFramework>
+    <TargetFramework>net7.0-windows</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
@@ -10,8 +10,8 @@
     <Company>TarekFadel.com</Company>
     <Description>A tiny library which uses the fancy new open folder dialog.</Description>
     <PackageTags>library;open folder;helper;windows</PackageTags>
-    <AssemblyVersion>1.0.0</AssemblyVersion>
-    <FileVersion>1.0.0</FileVersion>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
     <PackageLicenseExpression>CC-BY-SA-4.0</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/tHeCh0s3n0n3/Open-Folder-Library.git</PackageProjectUrl>
     <PackageId>com.tarekfadel.open_folder_library</PackageId>
